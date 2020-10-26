@@ -1,3 +1,13 @@
+input/
+*.csv
+*.tsv
+*.txt
+*.ckpt
+*.h5
+*.pt
+*.pth
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
